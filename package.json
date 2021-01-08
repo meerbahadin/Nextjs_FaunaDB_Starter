@@ -1,0 +1,20 @@
+{
+  "name": "solar",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "faunadb": "^4.0.0",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.10",
+    "next": "10.0.4",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "sass": "^1.32.2",
+    "swr": "^0.4.0"
+  }
+}
